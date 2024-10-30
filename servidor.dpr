@@ -43,7 +43,10 @@ uses
   models.factory in 'src\models\models.factory.pas',
   routers.contracts in 'src\routers\routers.contracts.pas',
   routers.notafiscal in 'src\routers\routers.notafiscal.pas',
-  helpers.serializable in 'src\helpers\helpers.serializable.pas';
+  helpers.serializable in 'src\helpers\helpers.serializable.pas',
+  serializable.rastro in 'src\serializable\serializable.rastro.pas',
+  serializable.medicamento in 'src\serializable\serializable.medicamento.pas',
+  serializable.arma in 'src\serializable\serializable.arma.pas';
 
 begin
   {$IFDEF DEBUG}

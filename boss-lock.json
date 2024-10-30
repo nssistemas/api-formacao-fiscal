@@ -2,6 +2,14 @@
 	"hash": "d41d8cd98f00b204e9800998ecf8427e",
 	"updated": "2024-10-28T13:19:11.1578775-03:00",
 	"installedModules": {
+		"github.com/gabrielbaltazar/gbjson": {
+			"name": "gbjson",
+			"version": "1.1.2",
+			"hash": "7393d9f407542ce6bfd95def9b4a04fd",
+			"artifacts": {},
+			"failed": false,
+			"changed": true
+		},
 		"github.com/hashload/horse": {
 			"name": "horse",
 			"version": "3.1.6",

@@ -7,7 +7,9 @@ uses
   GBJSON.Attributes,
   serializable.ide,
   serializable.produto,
-  serializable.total, serializable.pagamento, serializable.infadic,
+  serializable.total,
+  serializable.pagamento,
+  serializable.infadic,
   serializable.infIntermed;
 
 type
